@@ -1,0 +1,10 @@
+Starting Cash 5000
+2020-02-07 09:34:11
+Bought: ['20', '5'] Shares from Hypercube
+Ending Cash: 4900
+--------------------------------------------
+Starting Cash 5000
+2020-04-11 19:11:54
+Bought: ['2', '5'] Shares from NeplusUltra
+Ending Cash: 4990
+--------------------------------------------

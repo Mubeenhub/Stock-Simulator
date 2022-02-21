@@ -1,0 +1,25 @@
+Starting Cash: 0
+2020-02-07 09:36:5
+Sold: ['50', '10'] Shares from Hypercube
+Cash Remaining: 500
+--------------------------------------------
+Starting Cash 500
+2020-02-07 09:38:06
+Bought: ['50', '1'] Shares from Hypercube
+Ending Cash: 450
+--------------------------------------------
+Starting Cash 450
+2020-02-07 09:38:16
+Bought: ['50', '1'] Shares from Hypercube
+Ending Cash: 400
+--------------------------------------------
+Starting Cash 450
+2020-02-07 09:38:50
+Bought: ['20', '10'] Shares from Hypercube
+Ending Cash: 250
+--------------------------------------------
+Starting Cash 450
+2020-02-07 09:39:25
+Bought: ['20', '10'] Shares from Hypercube
+Ending Cash: 250
+--------------------------------------------
